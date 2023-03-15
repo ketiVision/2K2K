@@ -27,7 +27,7 @@ By requesting for the link, you acknowledge that you have read the agreement, un
 
 
 ### Data Explanation
-Dataset contains 2,040 high-quality human scans captured by 80 multi-view DSLR cameras in 2019 by IOYS.  KETI IIP-VisionTeam and [GIST Visual AI Lab](https://sites.google.com/site/hgjeoncv/) selected and post-processed the raw data to enable deep learning training and extract other information such as 3D pose, texture map, and paramteric human model.
+Dataset contains 2,040 high-quality human scans captured by 80 multi-view DSLR cameras by IOYS, and KetiVision and [GIST Visual AI Lab](https://sites.google.com/site/hgjeoncv/) selected and post-processed the raw data to enable deep learning training and extract other information such as 3D pose, texture map, and paramteric human model.
 The dataset contains
 - 3D human model (approximately 1M vertices and 2M faces)
 - Texture map (jpg)
@@ -57,7 +57,6 @@ year={2023},
 
 
 ### Acknowledgment
-- The authors would like to thank [IOYS](http://ioys.co.kr/) for providing their invaluable 3D model data for research.
 - This work was equally supported by Korea Institute for Advancement of Technology(KIAT) grant funded by the Korea Government(MOTIE)(P146500035, The development of interactive metaverse concert solutions via neural human modeling) and by Institute of Information & communications Technology Planning & Evaluation (IITP) grant funded by the Korea government(MSIT) (No. 2022-0-00566. The development of object media technology based on multiple video sources).
 - Thanks to our collaborators, [WYSIWYG Studios Co.](http://www.wswgstudios.com/) and [UCSD Video Processing Lab](http://videoprocessing.ucsd.edu/), for discussion.
 - We referenced [THuman 2.0 Dataset](https://github.com/ytrock/THuman2.0-Dataset) to create this page and to name the dataset. Thanks to [Tao Yu](https://ytrock.com/) and [Prof. Yebin Liu](http://www.liuyebin.com/) for permission to use the terms and format of the THuman page.
