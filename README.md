@@ -52,7 +52,8 @@ year={2023},
 
 
 ### Contact
-- Ju Hong Yoon / Min-Gyu Park [(khuman23@gmail.com)](mailto:khuman23@gmail.com)
+- Ju Hong Yoon [(jhyoon@keti.re.kr)](mailto:jhyoon@keti.re.kr)
+- Min-Gyu Park cc:[(jhyoon@keti.re.kr)](mailto:jhyoon@keti.re.kr)
 
 
 
