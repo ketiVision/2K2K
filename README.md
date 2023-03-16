@@ -18,7 +18,7 @@ Sang-Hun Han, [Min-Gyu Park](https://scholar.google.co.uk/citations?user=VUj1ZWo
 
 
 ### Download Instructions 
-Dataset is encrypted to prevent unauthorized access.
+Dataset is encrypted to prevent and track unauthorized access.
 
 Please fill the [request form](./2K2K_Agreement.pdf) and send it to Ju Hong Yoon (jhyoon@keti.re.kr) and cc Min-Gyu Park (mpark@keti.re.kr).
 
