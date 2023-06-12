@@ -4,7 +4,10 @@ Sang-Hun Han, [Min-Gyu Park](https://scholar.google.co.uk/citations?user=VUj1ZWo
 
 [[Project Page]](https://github.com/SangHunHan92/2K2K)
 
-
+<br/>
+<p align="center">
+  <img src="https://github.com/SangHunHan92/SangHunHan92.github.io/blob/main/imgs/2K2K/hanni_zoom_resize2.gif?raw=true" alt="Sublime's custom image"/>
+</p>
 
 ### Agreement
 1. The 2K2K dataset (the "Dataset") is available for **non-commercial** research purposes only. Any other use, in particular any use for commercial purposes, is prohibited. This includes, without limitation, incorporation in a commercial product, use in a commercial service, as training data for a commercial product, for commercial ergonomic analysis (e.g. product design, architectural design, etc.), or production of other artifacts for commercial purposes including, for example, web services, movies, television programs, mobile applications, or video games. The dataset may not be used for pornographic purposes or to generate pornographic material whether commercial or not. The Dataset may not be reproduced, modified and/or made available in any form to any third party without [IOYS](http://ioys.co.kr/)’s prior written permission.
