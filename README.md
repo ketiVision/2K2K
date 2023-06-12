@@ -25,7 +25,7 @@
 ### Download Instructions 
 Dataset is encrypted to prevent and track unauthorized access.
 
-Please fill the [request form](./2K2K_Agreement.pdf) and send it to Ju Hong Yoon (jhyoon@keti.re.kr) and cc Min-Gyu Park (mpark@keti.re.kr).
+Please fill the [request form](./2K2K_Agreement.pdf) and send it to Ju Hong Yoon (jhyoon@keti.re.kr).
 
 By requesting for the link, you acknowledge that you have read the agreement, understand it, and agree to be bound by them. If you do not agree with these terms and conditions, you must not download and/or use the Dataset.
 
@@ -37,8 +37,8 @@ The dataset contains
 - 3D human model with vertex color (approximately 1M vertices and 2M faces)
 - 3D human model with texture map (approximately 50,000 vertices)
 - Texture map (jpg)
-- 3D Pose ([openpifpaf](https://github.com/openpifpaf/openpifpaf), [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose))... will be updated soon.
 - Parameteric human model ([SMPL](https://smpl.is.tue.mpg.de/))
+- 3D Pose ([openpifpaf](https://github.com/openpifpaf/openpifpaf), [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)) will be updated soon.
 - Evaluation and image rendering kit
 
 
