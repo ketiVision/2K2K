@@ -6,7 +6,7 @@
 
 <br/>
 <p align="center">
-  <img src="./2K2K_DATA_LOGO.jpg"/>
+  <img src="./2K2K_LOGO.jpg"/>
 </p>
 
 
