@@ -2,7 +2,7 @@
 ### High-fidelity 3D Human Digitization from Single 2K Resolution Images
 [Sang-Hun Han](https://sanghunhan92.github.io/conference/2K2K/), [Min-Gyu Park](https://scholar.google.co.uk/citations?user=VUj1ZWoAAAAJ&hl=en), [Ju Hong Yoon](https://scholar.google.com/citations?user=Y4mReV4AAAAJ&hl=en), Ju-Mi Kang, Young-Jae Park and [Hae-Gon Jeon](https://sites.google.com/site/hgjeoncv/).  CVPR 2023
 
-[[Project Page]](https://github.com/SangHunHan92/2K2K)
+[[Project Page]](https://sanghunhan92.github.io/conference/2K2K/)
 
 <br/>
 <p align="center">
