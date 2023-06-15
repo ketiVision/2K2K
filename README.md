@@ -14,7 +14,7 @@
 ### Agreement
 1. The 2K2K dataset (the "Dataset") is available for **non-commercial** research purposes only. Any other use, in particular any use for commercial purposes, is prohibited. This includes, without limitation, incorporation in a commercial product, use in a commercial service, as training data for a commercial product, for commercial ergonomic analysis (e.g. product design, architectural design, etc.), or production of other artifacts for commercial purposes including, for example, web services, movies, television programs, mobile applications, or video games. The dataset may not be used for pornographic purposes or to generate pornographic material whether commercial or not. The Dataset may not be reproduced, modified and/or made available in any form to any third party without [IOYS](http://ioys.co.kr/)’s prior written permission.
 
-2. You agree **not to** reproduce, modified, duplicate, copy, sell, trade, resell or exploit any portion of the images and any portion of derived data in any form to any third party without [IOYS](http://ioys.co.kr/)’s prior written permission.
+2. You agree **not to** reproduce, modified, duplicate, copy, sell, trade, resell, or exploit any portion of the images and any portion of derived data in any form to any third party without [IOYS](http://ioys.co.kr/)’s prior written permission.
 
 3. You agree **not to** further copy, publish, or distribute any portion of the Dataset. Except, for internal use at a single site within the same organization it is allowed to make copies of the dataset.
 
@@ -23,7 +23,7 @@
 
 
 ### Download Instructions 
-Dataset is encrypted to prevent and track unauthorized access.
+The dataset is encrypted to prevent and track unauthorized access.
 
 Please fill out the [request form](./2K2K_Agreement.pdf) and send it to polygome.keti@gmail.com
 
@@ -32,7 +32,7 @@ By requesting the link, you acknowledge that you have read the agreement, unders
 
 
 ### Data Explanation
-The dataset contains 2,050 high-quality human scans captured by 80 multi-view DSLR cameras by [IOYS](http://ioys.co.kr/). CVTeam (KETI IIP Center) and [GIST Visual AI Lab](https://sites.google.com/site/hgjeoncv/) selected and post-processed the raw data to enable deep learning training and extract other information such as 3D pose, texture map, and parametric human model.
+The dataset contains 2,050 high-quality human scans captured by 80 multi-view DSLR cameras by [IOYS](http://ioys.co.kr/). CVTeam (KETI IIP Center) selected and post-processed the raw data to enable deep learning training and extract other information such as 3D pose, texture map, and parametric human model.
 The dataset contains
 - 3D human model with vertex color (approximately 1M vertices and 2M faces)
 - 3D human model with texture map (approximately 50K vertices)
