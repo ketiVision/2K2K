@@ -25,7 +25,7 @@
 ### Download Instructions 
 Dataset is encrypted to prevent and track unauthorized access.
 
-Please fill out the [request form](./2K2K_Agreement.pdf) and send it to polygome.keti@gmail.com.
+Please fill out the [request form](./2K2K_Agreement.pdf) and send it to polygome.keti@gmail.com
 
 By requesting the link, you acknowledge that you have read the agreement, understand it, and agree to be bound by them. If you do not agree with these terms and conditions, you must not download and/or use the Dataset.
 
