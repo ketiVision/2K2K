@@ -16,7 +16,7 @@
 
 2. You agree **not to** reproduce, modified, duplicate, copy, sell, trade, resell or exploit any portion of the images and any portion of derived data in any form to any third party without [IOYS](http://ioys.co.kr/)’s prior written permission.
 
-3. You agree **not to** further copy, publish or distribute any portion of the Dataset. Except, for internal use at a single site within the same organization it is allowed to make copies of the dataset.
+3. You agree **not to** further copy, publish, or distribute any portion of the Dataset. Except, for internal use at a single site within the same organization it is allowed to make copies of the dataset.
 
 4. [IOYS](http://ioys.co.kr/) reserve the right to terminate your access to the Dataset at any time.
 
@@ -25,19 +25,19 @@
 ### Download Instructions 
 Dataset is encrypted to prevent and track unauthorized access.
 
-Please fill the [request form](./2K2K_Agreement.pdf) and send it to Ju Hong Yoon (jhyoon@keti.re.kr).
+Please fill out the [request form](./2K2K_Agreement.pdf) and send it to Ju Hong Yoon (polygome.keti@gmail.com).
 
-By requesting for the link, you acknowledge that you have read the agreement, understand it, and agree to be bound by them. If you do not agree with these terms and conditions, you must not download and/or use the Dataset.
+By requesting the link, you acknowledge that you have read the agreement, understand it, and agree to be bound by them. If you do not agree with these terms and conditions, you must not download and/or use the Dataset.
 
 
 
 ### Data Explanation
-Dataset contains 2,050 high-quality human scans captured by 80 multi-view DSLR cameras by [IOYS](http://ioys.co.kr/). KetiVision and [GIST Visual AI Lab](https://sites.google.com/site/hgjeoncv/) selected and post-processed the raw data to enable deep learning training and extract other information such as 3D pose, texture map, and paramteric human model.
+Dataset contains 2,050 high-quality human scans captured by 80 multi-view DSLR cameras by [IOYS](http://ioys.co.kr/). KetiVision and [GIST Visual AI Lab](https://sites.google.com/site/hgjeoncv/) selected and post-processed the raw data to enable deep learning training and extract other information such as 3D pose, texture map, and parametric human model.
 The dataset contains
 - 3D human model with vertex color (approximately 1M vertices and 2M faces)
 - 3D human model with texture map (approximately 50K vertices)
 - Texture map (jpg)
-- Parameteric human model ([SMPL](https://smpl.is.tue.mpg.de/))
+- Parametric human model ([SMPL](https://smpl.is.tue.mpg.de/))
 - 3D Pose ([openpifpaf](https://github.com/openpifpaf/openpifpaf), [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)) will be updated soon.
 - Evaluation and image rendering kit
 
@@ -57,13 +57,13 @@ year={2023},
 
 
 
-### Contact
+### Contact for commercial use
 - Ju Hong Yoon (jhyoon@keti.re.kr)
 - Min-Gyu Park (mpark@keti.re.kr)
 
 
 
 ### Acknowledgment
-- The work was partially supported by the Ministry of Trade, Industry and Energy (MOTIE) and Korea Institute for Advancement of Technology (KIAT) through the International Cooperative R&D program in part (P0019797), Institute of Information & communications Technology Planning & Evaluation (IITP) grant (No.2021-0-02068, Artificial Intelligence Innovation Hub / No.2022-0-00566. The development of object media technology based on multiple video sources), GIST-MIT Research Collaboration, “Practical Research and Development support program supervised by the GTI(GIST Technology Institute)” funded by the GIST in 2023, ‘Project for Science and Technology Opens the Future of the Region’ program through the INNOPOLIS FOUNDATION funded by Ministry of Science and ICT, and the National Research Foundation of Korea (NRF) (No.2020R1C1C1012635) grant funded by the Korea government.
+- The work was partially supported by the Ministry of Trade, Industry and Energy (MOTIE) and Korea Institute for Advancement of Technology (KIAT) through the International Cooperative R&D program in part (P0019797), Institute of Information & Communications Technology Planning & Evaluation (IITP) grant (No.2021-0-02068, Artificial Intelligence Innovation Hub / No.2022-0-00566. The development of object media technology based on multiple video sources), GIST-MIT Research Collaboration, “Practical Research and Development support program supervised by the GTI(GIST Technology Institute)” funded by the GIST in 2023, ‘Project for Science and Technology Opens the Future of the Region’ program through the INNOPOLIS FOUNDATION funded by Ministry of Science and ICT, and the National Research Foundation of Korea (NRF) (No.2020R1C1C1012635) grant funded by the Korea government.
 - Thanks to our collaborators, [WYSIWYG Studios Co.](http://www.wswgstudios.com/) and [UCSD Video Processing Lab](http://videoprocessing.ucsd.edu/), for discussion.
 - We referenced [THuman 2.0 Dataset](https://github.com/ytrock/THuman2.0-Dataset) to create this page. Thanks to [Tao Yu](https://ytrock.com/) and [Prof. Yebin Liu](http://www.liuyebin.com/) for permission to use the terms and format of the THuman Dataset page.
