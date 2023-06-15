@@ -32,7 +32,7 @@ By requesting the link, you acknowledge that you have read the agreement, unders
 
 
 ### Data Explanation
-Dataset contains 2,050 high-quality human scans captured by 80 multi-view DSLR cameras by [IOYS](http://ioys.co.kr/). KetiVision and [GIST Visual AI Lab](https://sites.google.com/site/hgjeoncv/) selected and post-processed the raw data to enable deep learning training and extract other information such as 3D pose, texture map, and parametric human model.
+The dataset contains 2,050 high-quality human scans captured by 80 multi-view DSLR cameras by [IOYS](http://ioys.co.kr/). CVTeam (KETI IIP Center) and [GIST Visual AI Lab](https://sites.google.com/site/hgjeoncv/) selected and post-processed the raw data to enable deep learning training and extract other information such as 3D pose, texture map, and parametric human model.
 The dataset contains
 - 3D human model with vertex color (approximately 1M vertices and 2M faces)
 - 3D human model with texture map (approximately 50K vertices)
