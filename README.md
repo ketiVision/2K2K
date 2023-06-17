@@ -39,7 +39,7 @@ The dataset contains
 - Texture map (jpg)
 - Parametric human model ([SMPL](https://smpl.is.tue.mpg.de/))
 - 3D Pose ([openpifpaf](https://github.com/openpifpaf/openpifpaf), [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)) will be updated soon.
-- [Evaluation and image rendering kit](https://github.com/SangHunHan92/2K2K)
+- [Evaluation and dataloader kit](https://github.com/SangHunHan92/2K2K)
 
 
 
