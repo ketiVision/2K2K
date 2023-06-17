@@ -18,7 +18,7 @@
 
 3. You agree **not to** further copy, publish, or distribute any portion of the Dataset. Except, for internal use at a single site within the same organization it is allowed to make copies of the dataset.
 
-4. [IOYS](http://ioys.co.kr/) reserve the right to terminate your access to the Dataset at any time.
+4. [IOYS](http://ioys.co.kr/) reserves the right to terminate your access to the Dataset at any time.
 
 
 
