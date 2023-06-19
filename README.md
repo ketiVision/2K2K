@@ -38,12 +38,11 @@ The dataset contains
 - 3D human model with vertex color (approximately 1M vertices and 2M faces depending on the size of the human body.)
 - 3D human model with texture map (approximately 50K vertices)
 - Texture map (jpg)
+- [Evaluation and data loader kit](https://github.com/SangHunHan92/2K2K)
 
 The following information will be uploaded by 14 July.
 - Parametric human model ([SMPL](https://smpl.is.tue.mpg.de/))
 - 3D Pose ([openpifpaf](https://github.com/openpifpaf/openpifpaf), [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose))
-- [Evaluation and data loader kit](https://github.com/SangHunHan92/2K2K)
-
 
 
 ### Citation
