@@ -29,6 +29,7 @@ Please fill out the [request form](./2K2K_Agreement.pdf) and send it to polygome
 
 By requesting the link, you acknowledge that you have read the agreement, understand it, and agree to be bound by them. If you do not agree with these terms and conditions, you must not download and/or use the Dataset.
 
+(** We are currently fixing bugs in the 3D models. We will be able to send you the link on June 20th (GMT+9). Sorry for the delay.)
 
 
 ### Data Explanation
