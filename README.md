@@ -9,8 +9,8 @@
   <img src="./2K2K_LOGO.jpg"/>
 </p>
 
-### [Note!]  The 50K dataset does not have UV coordinates for the texture maps, and we are currently working on adding them. The texture map information and new data loader for the 50K dataset will be uploaded by 30 June. We will resend the link to those who have submitted the Agreement.
-### [Note!] We will release the test data on 31 July.
+### [Note!] We are still working on generating texture maps.
+### [Note!] Now, we can share 1M, 50K (ply), and the data loader. We will release the test data on 31 July and resend the link to those who have submitted the Agreement.
 
 ### Agreement
 1. The 2K2K dataset (the "Dataset") is available for **non-commercial** research purposes only. Any other use, in particular any use for commercial purposes, is prohibited. This includes, without limitation, incorporation in a commercial product, use in a commercial service, as training data for a commercial product, for commercial ergonomic analysis (e.g. product design, architectural design, etc.), or production of other artifacts for commercial purposes including, for example, web services, movies, television programs, mobile applications, or video games. The Dataset may not be used for pornographic purposes or to generate pornographic material whether commercial or not. The Dataset may not be reproduced, modified and/or made available in any form to any third party without [IOYS](http://ioys.co.kr/)’s prior written permission.
