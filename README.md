@@ -42,7 +42,7 @@ The dataset contains
 - [Evaluation kit](https://github.com/SangHunHan92/2K2K)
 
 The following information will be uploaded by 14 July.
-- Unwrapped texture map (jpg) (based on SMPL)
+- Unwrapped texture map (based on SMPL)
 - Parametric human model ([SMPL](https://smpl.is.tue.mpg.de/))
 - 3D Pose ([openpifpaf](https://github.com/openpifpaf/openpifpaf), [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose))
 
