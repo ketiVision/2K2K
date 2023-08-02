@@ -6,7 +6,7 @@
 
 <br/>
 <p align="center">
-  <img src="./2K2K_LOGO.jpg"/>
+  <img src="./2K2K-1.png"/>
 </p>
 
 ### Now, we can share 1M, 50K (ply), and the data loader. The link is available for 7 days to whom have submitted their agreement.
