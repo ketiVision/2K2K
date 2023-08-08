@@ -39,7 +39,7 @@ The dataset contains 2,050 high-quality human scans captured by 80 multi-view DS
 The dataset contains
 - Train data
     * 2,000 of the 3D human models with vertex color (approximately 1M vertices)
-    * 2,000 of the low-resolution 3D human models with vertex color (approximately 50K vertices)
+    * 2,000 of low-resolution 3D human models with vertex color (approximately 50K vertices)
 - Test data
     * 50 of the 3D human models with vertex color (100K vertices)
 - Data loader
