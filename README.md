@@ -9,8 +9,7 @@
   <img src="./2K2K - 1.png"/>
 </p>
 
-### Now, we can share 1M, 50K (ply), and the data loader. The link is available for 7 days to whom have submitted their agreement.
-### We are still working on generating texture maps. We will release the test data on 31 July and resend the link to those who have submitted the Agreement.
+
 
 ### Agreement
 1. The 2K2K dataset (the "Dataset") is available for **non-commercial** research purposes only. Any other use, in particular any use for commercial purposes, is prohibited. This includes, without limitation, incorporation in a commercial product, use in a commercial service, as training data for a commercial product, for commercial ergonomic analysis (e.g. product design, architectural design, etc.), or production of other artifacts for commercial purposes including, for example, web services, movies, television programs, mobile applications, or video games. The Dataset may not be used for pornographic purposes or to generate pornographic material whether commercial or not. The Dataset may not be reproduced, modified and/or made available in any form to any third party without [IOYS](http://ioys.co.kr/)’s prior written permission.
@@ -22,33 +21,39 @@
 4. [IOYS](http://ioys.co.kr/) reserves the right to terminate your access to the Dataset at any time.
 
 
-
 ### Download Instructions 
 The dataset is encrypted to prevent and track unauthorized access.
 
 Please fill out the [request form](./2K2K_Agreement.pdf) and send it to polygome.keti@gmail.com
 
-****We only approve Agreement sent by an institutional email.**
-
 By requesting the link, you acknowledge that you have read the agreement, understand it, and agree to be bound by them. If you do not agree with these terms and conditions, you must not download and/or use the Dataset.
+
+##### * We only approve Agreement sent by an institutional email. 
+##### * The link will be available for 7 days to those who have submitted the agreement. 
+##### * Please do not reveal the URL to other people, and use the data according to the agreement.
+
 
 ### Data Explanation
 The dataset contains 2,050 high-quality human scans captured by 80 multi-view DSLR cameras by [IOYS](http://ioys.co.kr/). CVTeam (KETI IIP Center) selected and post-processed the raw data to enable deep learning training and extract other information such as 3D pose, texture map, and parametric human model.
+
 The dataset contains
-- 3D human model with vertex color (approximately 1M vertices and 2M faces depending on the size of the human body.)
-- Down-sampled 3D human model with vertex color (approximately 50K vertices)
+- Train data
+    * 2,000 3D human models with vertex color (approximately 1M vertices)
+    * 2,000 down-sampled 3D human models with vertex color (approximately 50K vertices)
+- Test data
+    * 50 3D human models with vertex color (100K vertices)
 - Data loader
 - [Evaluation kit](https://github.com/SangHunHan92/2K2K)
 
-The following information will be uploaded by 14 July.
-- Unwrapped texture map (based on SMPL)
+The following information will be uploaded soon.
 - Parametric human model ([SMPL](https://smpl.is.tue.mpg.de/))
 - 3D Pose ([openpifpaf](https://github.com/openpifpaf/openpifpaf), [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose))
 
-The following information will be uploaded by 30 July.
-- Test data (50 models)
+We are also working on generating the following information, but it will take time.
+- Unwrapped texture map (based on SMPL)
+- UV texture map (xatlas)
 
-
+  
 ### Citation
 If you use this dataset for your research, please consider citing:
 ```
