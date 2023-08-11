@@ -43,6 +43,7 @@ The dataset contains
 - Test data
     * 50 of the 3D human models with vertex color (100K vertices)
 - Data loader
+- Image rendering exmplae code: simple_neural_rendering.py
 - [Evaluation kit](https://github.com/SangHunHan92/2K2K)
 
 The following information will be uploaded soon.
