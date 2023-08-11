@@ -50,6 +50,10 @@ The following information will be uploaded soon.
 - Parametric human model ([SMPL](https://smpl.is.tue.mpg.de/))
 - 3D Pose ([openpifpaf](https://github.com/openpifpaf/openpifpaf), [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose))
 
+<p align="center">
+   <img src="./asset/00029.gif" width="226" height="226" /> <img src="./asset/00005.gif" width="226" height="226" /> <img src="./asset/00025.gif" width="226" height="226" /> <img src="./asset/00044.gif" width="226" height="226" />
+</p>
+
 We are also working on generating the following information, but it will take time.
 - Unwrapped texture map (based on SMPL)
 - UV texture map (xatlas)
