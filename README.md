@@ -51,7 +51,7 @@ The following information will be uploaded soon.
 - 3D Pose ([openpifpaf](https://github.com/openpifpaf/openpifpaf), [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose))
 
 <p align="center">
-   <img src="./asset/00029.gif" width="226" height="226" /> <img src="./asset/00005.gif" width="226" height="226" /> <img src="./asset/00025.gif" width="226" height="226" /> <img src="./asset/00044.gif" width="226" height="226" />
+   <img src="./asset/00029.gif" width="200" height="200" /> <img src="./asset/00005.gif" width="200" height="200" /> <img src="./asset/00025.gif" width="200" height="200" /> <img src="./asset/00044.gif" width="200" height="200" />
 </p>
 
 We are also working on generating the following information, but it will take time.
