@@ -14,7 +14,7 @@
 ### Agreement
 1. The 2K2K dataset (the "Dataset") is available for **non-commercial** research purposes only. Any other use, in particular any use for commercial purposes, is prohibited. This includes, without limitation, incorporation in a commercial product, use in a commercial service, as training data for a commercial product, for commercial ergonomic analysis (e.g. product design, architectural design, etc.), or production of other artifacts for commercial purposes including, for example, web services, movies, television programs, mobile applications, or video games. The Dataset may not be used for pornographic purposes or to generate pornographic material whether commercial or not. The Dataset may not be reproduced, modified and/or made available in any form to any third party without [IOYS](http://ioys.co.kr/)’s prior written permission.
 
-2. You agree **not to** reproduce, modified, duplicate, copy, sell, trade, resell, or exploit any portion of the images and any portion of derived data in any form to any third party without [IOYS](http://ioys.co.kr/)’s prior written permission.
+2. You agree **not to** reproduce, modify, duplicate, copy, sell, trade, resell, or exploit any portion of the images and any portion of derived data in any form to any third party without [IOYS](http://ioys.co.kr/)’s prior written permission.
 
 3. You agree **not to** further copy, publish, or distribute any portion of the Dataset. Except, for internal use at a single site within the same organization it is allowed to make copies of the Dataset.
 
@@ -45,10 +45,10 @@ The dataset contains
 - Data loader
 - Image rendering example: see the folder "source/"
 - [Evaluation kit](https://github.com/SangHunHan92/2K2K)
-
-The following information will be uploaded soon.
-- Parametric human model ([SMPL](https://smpl.is.tue.mpg.de/))
-- 3D Pose ([openpifpaf](https://github.com/openpifpaf/openpifpaf), [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose))
+- Parametric human model ([download](https://www.dropbox.com/scl/fi/ic3gpnz5ngr4lxquhyhyn/smplx.zip?rlkey=m1u2mfe0uvq5rz08si04jm0af&dl=0))
+- The current SMPL-X parameters are initial estimates. We will update the parameters in both terms of quantity and quality. 
+- 2K/3D Keypoints ([openpifpaf](https://github.com/openpifpaf/openpifpaf), [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose))
+  ([download](https://www.dropbox.com/scl/fi/6qb3a70nxjtug0lcxtrhc/keypoints.zip?rlkey=1f6rnacpfnipl3b0p9wx2z09v&dl=0))
 
 <p align="center">
    <img src="./asset/00029.gif" width="20%" height="20%" /> <img src="./asset/00005.gif" width="20%" height="20%" /> <img src="./asset/00025.gif" width="20%" height="20%" /> <img src="./asset/00044.gif" width="20%" height="20%" />
