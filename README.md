@@ -29,7 +29,7 @@ The dataset is encrypted to prevent and track unauthorized access.
 
 By requesting the link, you acknowledge that you have read the agreement, understand it, and agree to be bound by them. If you do not agree with these terms and conditions, you must not download and/or use the Dataset.
 
-##### * We only approve Agreement sent by an institutional email. 
+##### * We only approve a institution email adress. 
 ##### * Please do not reveal the URL to other people, and use the data according to the agreement.
 
 
