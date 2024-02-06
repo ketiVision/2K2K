@@ -22,14 +22,14 @@
 
 
 ### Download Instructions 
-The dataset is encrypted to prevent and track unauthorized access.
 
-Please fill out the [request form](./2K2K_Agreement.pdf) and send it to polygome.keti@gmail.com
+[SUBMISSION LINK](https://forms.gle/rVmcHCenChZx6jVV7)
+
+The dataset is encrypted to prevent and track unauthorized access.
 
 By requesting the link, you acknowledge that you have read the agreement, understand it, and agree to be bound by them. If you do not agree with these terms and conditions, you must not download and/or use the Dataset.
 
 ##### * We only approve Agreement sent by an institutional email. 
-##### * The link will be available for 7 days to those who have submitted the agreement. 
 ##### * Please do not reveal the URL to other people, and use the data according to the agreement.
 
 
