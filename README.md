@@ -4,59 +4,12 @@
 
 [[Project Page]](https://sanghunhan92.github.io/conference/2K2K/)
 
-<br/>
-<p align="center">
-  <img src="./2K2K - 1.png"/>
-</p>
+The dataset has been migrated to Hugging Face.
 
+https://huggingface.co/datasets/polygom-team/2K2K
 
+We have fixed all the previous errors based on user comments. Thank you to everyone who provided feedback.
 
-### Agreement
-1. The 2K2K dataset (the "Dataset") is available for **non-commercial** research purposes only. Any other use, in particular any use for commercial purposes, is prohibited. This includes, without limitation, incorporation in a commercial product, use in a commercial service, as training data for a commercial product, for commercial ergonomic analysis (e.g. product design, architectural design, etc.), or production of other artifacts for commercial purposes including, for example, web services, movies, television programs, mobile applications, or video games. The Dataset may not be used for pornographic purposes or to generate pornographic material whether commercial or not. The Dataset may not be reproduced, modified and/or made available in any form to any third party without [IOYS](http://ioys.co.kr/)’s prior written permission.
-
-2. You agree **not to** reproduce, modify, duplicate, copy, sell, trade, resell, or exploit any portion of the images and any portion of derived data in any form to any third party without [IOYS](http://ioys.co.kr/)’s prior written permission.
-
-3. You agree **not to** further copy, publish, or distribute any portion of the Dataset. Except, for internal use at a single site within the same organization it is allowed to make copies of the Dataset.
-
-4. [IOYS](http://ioys.co.kr/) reserves the right to terminate your access to the Dataset at any time.
-
-
-### Download Instructions 
-
-[SUBMISSION LINK](https://forms.gle/rVmcHCenChZx6jVV7)
-
-The dataset is encrypted to prevent and track unauthorized access.
-
-By requesting the link, you acknowledge that you have read the agreement, understand it, and agree to be bound by them. If you do not agree with these terms and conditions, you must not download and/or use the Dataset.
-
-##### * We only approve a institution email adress. 
-##### * Please do not reveal the URL to other people, and use the data according to the agreement.
-
-
-### Data Explanation
-The dataset contains 2,050 high-quality human scans captured by 80 multi-view DSLR cameras by [IOYS](http://ioys.co.kr/). CVTeam (KETI IIP Center) selected and post-processed the raw data to enable deep learning training and extract other information such as 3D pose, texture map, and parametric human model.
-
-The dataset contains
-- Train data
-    * 2,000 of the 3D human models with vertex color (approximately 1M vertices)
-    * 2,000 of low-resolution 3D human models with vertex color (approximately 50K vertices)
-- Test data
-    * 50 of the 3D human models with vertex color (100K vertices)
-- Data loader
-- Image rendering example: see the folder "source/"
-- [Evaluation kit](https://github.com/SangHunHan92/2K2K)
-- Parametric human model ([download](https://www.dropbox.com/scl/fi/ic3gpnz5ngr4lxquhyhyn/smplx.zip?rlkey=m1u2mfe0uvq5rz08si04jm0af&dl=0))
-- The current SMPL-X parameters are initial estimates. We will update the parameters in both terms of quantity and quality. 
-- 2K/3D Keypoints ([openpifpaf](https://github.com/openpifpaf/openpifpaf), [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose))
-  ([download](https://www.dropbox.com/scl/fi/6qb3a70nxjtug0lcxtrhc/keypoints.zip?rlkey=1f6rnacpfnipl3b0p9wx2z09v&dl=0))
-
-<p align="center">
-   <img src="./asset/00029.gif" width="20%" height="20%" /> <img src="./asset/00005.gif" width="20%" height="20%" /> <img src="./asset/00025.gif" width="20%" height="20%" /> <img src="./asset/00044.gif" width="20%" height="20%" />
-</p>
-
-We are also working on generating the following information, but it will take time.
-- Unwrapped texture map (based on SMPL)
-- UV texture map (xatlas)
 
   
 ### Citation
