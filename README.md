@@ -27,7 +27,7 @@ year={2023},
 
 
 ### Contact for commercial use
-- Ju Hong Yoon (jhyoon@keti.re.kr)
+- polygom@polygom.xyz
 
 
 
